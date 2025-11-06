@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Common IDE/Editor files
+.vscode/
+.idea/
+
+# Local data or environment files
+*.env
+*local.csv
